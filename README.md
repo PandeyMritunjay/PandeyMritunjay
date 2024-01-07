@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://dev.to/pandeymritunjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pandeymritunjay" height="30" width="40" /></a>
 <a href="https://twitter.com/pandeym29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pandeym29" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mritunjay pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mritunjay pandey" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mritunjaypandey29092003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mritunjay pandey" height="30" width="40" /></a>
 <a href="https://instagram.com/preesy.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="preesy.m" height="30" width="40" /></a>
 </p>
 
