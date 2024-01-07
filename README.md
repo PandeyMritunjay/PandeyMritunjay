@@ -1,7 +1,8 @@
 <h1 align="center">Hey, I'm Mritunjay Pandey</h1>
 <h3 align="center">Software Engineer / Data Science / Machine Learning / Android</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/9756e05977e724a3ac0bf104d486d06d.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/9756e05977e724a3ac0bf104d486d06d.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandeymritunjay&label=Profile%20views&color=0e75b6&style=flat" alt="pandeymritunjay" /> </p>
 
@@ -51,7 +52,6 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/> </a> 
   </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandeymritunjay&show_icons=true&locale=en&layout=compact" alt="pandeymritunjay" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandeymritunjay&show_icons=true&locale=en" alt="pandeymritunjay" /></p>
