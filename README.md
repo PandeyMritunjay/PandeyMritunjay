@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO](PORTFOLIO)
+- 👨‍💻 All of my projects are available at [[PORTFOLIO](https://pandeymritunjay.github.io/My-Portfolio/)]
 
 - 💬 Ask me about **DSA, Data Science, ML, Android**
 
